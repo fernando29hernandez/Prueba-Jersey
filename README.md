@@ -1,7 +1,7 @@
 # Prueba-Jersey
 
 
-Los endpoints se prueban desde postman:
+Los endpoints se pueden probar desde postman:
 
 Get
 http://localhost:8080/prueba/rest-apis/curso
